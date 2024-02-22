@@ -61,11 +61,7 @@ The application is structured as follows:
 > Add Bots to Your Bot Army: Click on a bot's card in the collection to add it to your bot army. You can only add each bot once to your army.
 > View Your Bot Army: Click the "Bot Army" button to view the bots in your army.
 > Remove Bots from Your Bot Army: In your bot army, you can remove bots from your army.
-> Delete Bots: You can delete bots from the collection entirely.
-
-### Author
-Name: Evans Kurgat 
-Email: evancherry254@gmail.com
+> Delete Bots: You can delete bots from the collection entire
 
 ### Contributing
 If you'd like to contribute to this project, please follow these steps:
